@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 
 	<properties>
-		<jetty-version>9.2.0.RC0</jetty-version>
+		<jetty-version>9.4.41.v20210516</jetty-version>
 		<spring-version>4.1.4.RELEASE</spring-version>
 		<swagger-version>1.5.3-M1</swagger-version>
 		<slf4j-version>1.7.20</slf4j-version>
